@@ -4,7 +4,7 @@ Completing JS101 Project for SATR platform
 ## Run
   ### npm install
   
-## after that Run
+## After that Run
   ### node main
   
 ## Dependencies should be installed
